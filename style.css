@@ -36,10 +36,10 @@ h1 {
 }
 
 .donate-button {
-    background-image: url(images/button-color.png);
     padding: 10px 40px;
     text-decoration: none;
     border-radius: 5px;
+    background-color: lightcoral;
 }
 
 .donate-amount {
@@ -50,10 +50,14 @@ h1 {
     font-size: 40px;
 }
 
+.hadith-first {
+    margin-bottom: 3%;
+}
+
 .tk {
     display: flex;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 30%;
+    margin-right: 30%;
 
 
 }
@@ -88,4 +92,16 @@ h1 {
     margin-left: 15%;
     border-style: outset;
 
+}
+
+.optional-tk {
+    color: gray;
+    margin-top: 3%;
+    text-decoration: underline;
+}
+
+.footer {
+    color: wheat;
+    text-align: center;
+    background-color: rgb(71, 71, 82);
 }
