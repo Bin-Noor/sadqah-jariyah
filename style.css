@@ -1,10 +1,28 @@
 body {
     font-family: 'Playfair Display',
         serif;
+    margin: 0;
+    height: 100%;
 }
 
 section {
-    display: flex;
+    text-align: center;
+
+    position: absolute;
+    top: 100%;
+    left: 0%;
+
+}
+
+.top-banner {
+    background-image: url(images/first\ background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    position: relative;
+    color: white;
+
 }
 
 h1 {
@@ -18,26 +36,14 @@ h1 {
     color: rgb(224, 211, 26);
 }
 
-.text-align {
-    text-align: center;
-}
-
 h3 {
     text-align: center;
-}
-
-p {
-    text-align: center;
-}
-
-a {
-    text-align: center;
-}
-
-#link-button {
-    text-decoration: none;
-    background-color: rgb(236, 136, 21);
-    border-radius: 5px;
     color: white;
+}
+
+.donate-button {
+    background-image: url(images/button-color.png);
     padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
 }
