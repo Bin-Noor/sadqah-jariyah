@@ -45,3 +45,47 @@ h1 {
 .donate-amount {
     color: black;
 }
+
+.Donate-today {
+    font-size: 40px;
+}
+
+.tk {
+    display: flex;
+    margin-left: 35%;
+    margin-right: 35%;
+
+
+}
+
+.eksho-tk {
+    border-style: outset;
+    border-radius: 5px;
+    padding: 10px 15px
+}
+
+.dui-sho {
+    color: red;
+    margin-left: 15%;
+    border-style: outset;
+    border-radius: 5px;
+    padding: 10px 15px;
+    border-color: rgb(231, 41, 41);
+    background-color: rgb(247, 212, 212);
+}
+
+.fiveh-tk {
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-left: 15%;
+    border-style: outset;
+
+}
+
+.thousend-tk {
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-left: 15%;
+    border-style: outset;
+
+}
