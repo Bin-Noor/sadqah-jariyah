@@ -100,6 +100,38 @@ h1 {
     text-decoration: underline;
 }
 
+.donation-plan {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.green {
+    background-color: rgb(13, 133, 13);
+    color: wheat;
+}
+
+.zakat-fund {
+    margin-right: -10%;
+    background-color: rgb(210, 245, 210);
+    border-radius: 5px;
+}
+
+.mgf {
+    margin-left: 25%;
+    margin-right: 5%;
+    background-color: cornsilk;
+    border-radius: 5px;
+}
+
+.eff {
+    border-radius: 5px;
+    margin-left: 5%;
+    background-color: rgb(252, 212, 212);
+}
+
 .footer {
     color: wheat;
     text-align: center;
